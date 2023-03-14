@@ -1,0 +1,32 @@
+*{
+    margin-left:20px;
+    margin-top:10px;
+}
+
+.search{
+    border-color:darkturquoise;
+    background-color: lightgray;
+    border-radius:20px;
+    color:darkturquoise;
+    width:100px;
+    box-shadow: none;
+}
+
+.plus{
+    background-color: darkturquoise;
+    color:white;
+    border-radius:50%;
+    border-color:darkturquoise;
+    height:30px;
+    width:30px;
+    font-size:large;
+}
+
+.create{
+    background-color: dodgerblue;
+    color: white;
+    width: 140px;
+    height:30px;
+    font-family:sans-serif;
+    box-shadow: 3px 3px black;
+}
